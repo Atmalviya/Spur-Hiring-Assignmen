@@ -191,10 +191,9 @@ The application handles various error scenarios:
 
 ### Current Trade-offs
 
-1. **PostgreSQL**: Chosen for production-readiness and better concurrency support
-2. **No Authentication**: Simplified for the assignment, but would be needed in production
-3. **In-memory Session**: Session ID stored in localStorage only, no server-side session management
-4. **Simple Error Handling**: Basic error messages, could be more detailed
+1. **No Authentication**: Simplified for the assignment, but would be needed in production
+2. **In-memory Session**: Session ID stored in localStorage only, no server-side session management
+3. **Simple Error Handling**: Basic error messages, could be more detailed
 
 ### If I Had More Time...
 
