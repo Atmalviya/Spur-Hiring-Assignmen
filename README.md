@@ -2,6 +2,12 @@
 
 A full-stack AI-powered live chat support agent built with React (frontend) and Node.js/TypeScript (backend). This application simulates a customer support chat where an AI agent answers user questions using OpenAI's GPT models with streaming responses.
 
+## 🚀 Live Demo
+
+**Deployed Application:** [https://spur.malviya.cloud/](https://spur.malviya.cloud/)
+
+Try it out! The AI agent is ready to answer questions about shipping, returns, support hours, and product information.
+
 ## Tech Stack
 
 ### Backend
@@ -179,6 +185,12 @@ The application handles various error scenarios:
 
 ## Testing the Application
 
+### Option 1: Use the Live Demo
+
+Visit [https://spur.malviya.cloud/](https://spur.malviya.cloud/) and start chatting!
+
+### Option 2: Run Locally
+
 1. Start both backend and frontend servers
 2. Open `http://localhost:3000` in your browser
 3. Try asking questions like:
@@ -206,6 +218,10 @@ The application handles various error scenarios:
 7. **WebSocket**: Replace SSE with WebSocket for bidirectional communication
 
 ## Deployment
+
+The application is deployed and accessible at:
+
+**Live URL:** [https://spur.malviya.cloud/](https://spur.malviya.cloud/)
 
 ## Contact
 
