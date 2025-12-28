@@ -1,0 +1,15 @@
+backend/node_modules/
+backend/dist/
+backend/.env
+backend/.env.local
+backend/.env.*.local
+backend/.prisma
+backend/pnpm-lock.yaml
+backend/package-lock.json
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+frontend/.env.*.local
+frontend/pnpm-lock.yaml
+frontend/package-lock.json
